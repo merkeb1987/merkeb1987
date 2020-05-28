@@ -1,0 +1,10 @@
+{
+  "main": "onlineshoping-api.raml",
+  "name": "OnLineShoping API",
+  "classifier": "raml",
+  "tags": [],
+  "groupId": "71b5882b-8b75-4d8c-9f38-33f518d0c6e2",
+  "assetId": "onlineshoping-api",
+  "version": "2.0.0",
+  "apiVersion": "v2"
+}
